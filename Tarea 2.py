@@ -11,11 +11,19 @@ print("Value:", x)
 
 # COMMAND ----------
 
+# MAGIC %md # 1.- Crea una tupla con una longitud de 5. usando diferentes tipos de datos.
+
+# COMMAND ----------
+
 l = (1,"Colombia",[1,2,3],True,1.5)
 
 # COMMAND ----------
 
 type(l)
+
+# COMMAND ----------
+
+# MAGIC %md # 2.- Cambiar la tupla a lista
 
 # COMMAND ----------
 
@@ -61,6 +69,10 @@ d3['c']
 
 # COMMAND ----------
 
+# MAGIC %md # 3.- Crea un diccionario donde la clave sea del 1 al 5 y los elementos los datos de la lista
+
+# COMMAND ----------
+
 tarea1 = {}
 
 # COMMAND ----------
@@ -69,13 +81,3 @@ for i in range(len(l)):
     tarea1[i+1]=l[i]
     
 tarea1
-
-# COMMAND ----------
-
-mylist = 'hello'
-x = len(mylist)
-x
-
-# COMMAND ----------
-
-
