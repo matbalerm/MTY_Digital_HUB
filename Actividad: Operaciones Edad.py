@@ -36,7 +36,3 @@ if x<y:
     print('Soy más chico yo.')
 else:
     print('Soy más grande yo')
-
-# COMMAND ----------
-
-
