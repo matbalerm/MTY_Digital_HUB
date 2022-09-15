@@ -16,7 +16,3 @@
 #8. Guardar el documento y subirlo a la ruta especificada dentro de SharePoint.
 #9. Actualizar el PowerBI y validar que los datos hayan sido actualizados adecuadamente.
 #10. Publicar el tablero en la aplicación del país correspondiente. 
-
-# COMMAND ----------
-
-
